@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project was carried out as part of SI 507 Final Project. It follows the utilization of datasets from HealthIT.gov Data API to examine the adoption rate of EHR or Electronic Health Records iin different counties of the states of USA. Additional data about the healthcare professionals will also be provided. 
+This project was carried out as part of SI 507 Final Project. It follows the utilization of datasets from HealthIT.gov Data API to examine the adoption rate of EHR or Electronic Health Records in different counties of the states of America. Additional data about the healthcare professionals will also be provided. 
 
 # Required Packages
 
