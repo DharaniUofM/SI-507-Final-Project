@@ -17,4 +17,4 @@ This project was carried out as part of SI 507 Final Project. It follows the uti
 
 # Environment
 
-The project was implemented in Google Colaboratory. A Google Account is enough to login, connect to the virtual runtime, and run the code. During execution of the code, specific snippets will allow for interaction by prompting for user's input to proceed with the subsequent blocks.
+The project was implemented in Google Colaboratory. A Google Account is enough to login, connect to the virtual runtime, and run the code. Download and make a copy of the code notebook in the Google Colaboratory and run the snippets one at a time. During execution of the code, specific snippets will allow for interaction by prompting for user's input to proceed with the subsequent blocks. 
